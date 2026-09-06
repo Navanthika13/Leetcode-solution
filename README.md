@@ -1,3 +1,5 @@
-+ #leetcode solution
-+ this folder contain solution for my leetcodeproblems
-+ 
+# LeetCode Solutions
+
++his repository contains my solutions to LeetCode problems.
++It helps me practice coding, improve my programming skills, and track my progress.
+
